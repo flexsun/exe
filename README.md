@@ -1,0 +1,2 @@
+# exe
+for daliy exe
